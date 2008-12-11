@@ -1,0 +1,3 @@
+h2. This is all Ben VC's idea. Evan will lend his code.
+
+A little video player that reminds you of your day's workout goals. In the glorious future, it may hook up to a bike somehow, and log your actual workout performance.
